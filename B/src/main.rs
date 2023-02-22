@@ -1,5 +1,3 @@
-use std::fmt::Display;
-
 use colored::Colorize;
 use dectohex::{decimal_to_hex, hex_to_decimal};
 
