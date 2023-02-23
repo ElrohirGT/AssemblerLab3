@@ -1,7 +1,6 @@
 import re;
-from operator import add;
 
-BINARY_NUMBER = "[01]+";
+BINARY_NUMBER = "^[0-1]{1,}$";
 BIT_LEN = 8
 
 def OnesComplement(binary: str) -> str:
