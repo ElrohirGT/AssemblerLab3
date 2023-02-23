@@ -2,7 +2,7 @@
 
 Puedes ver ambas partes del codigo en acción en:
 
-- [Parte A - Video]([Complemento1 a 2 de binario en Python - YouTube](https://youtu.be/VaaOqJAut_Q)
+- [Parte A - Video](https://youtu.be/VaaOqJAut_Q)
 
 - [Parte B - Video](https://youtu.be/QdI6URomCvk)
 
