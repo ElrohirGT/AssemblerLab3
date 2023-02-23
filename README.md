@@ -2,6 +2,10 @@
 
 Puedes ver ambas partes del codigo en acción en:
 
+- [Parte A - Video]([Complemento1 a 2 de binario en Python - YouTube](https://youtu.be/VaaOqJAut_Q))
+
+- [Parte B - Video](https://youtu.be/QdI6URomCvk)
+
 ## Inciso A
 
 Realizado con python 3. Se ejecuta mediante el comando
@@ -23,5 +27,3 @@ cargo run
 ```
 
 El proyecto no cuenta con programación defensiva, lo único que revisa es si el número dado indica en qué base está. Para indicar la base de un número, agregue una h al final si es hexadecimal o una d al final si es decimal.
-
-[Video ejecutando](https://youtu.be/QdI6URomCvk)
